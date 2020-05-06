@@ -1,6 +1,1 @@
-console.log("d.1.2.3.4.5");
-console.log(1)
-console.log(3)
-console.log(44)
-
-
+console.log("c.1");
